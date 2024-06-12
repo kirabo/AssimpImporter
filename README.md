@@ -31,3 +31,13 @@ support NewVersion 5.1.1~5.4.x
 can self extend to runtime
 
 drag  .udatasmith fileand assets folder to Project/Assets folder
+
+
+# SketchUPImporter
+
+1.invoke sketchup sdk in c# wrapper
+2.parse skp file
+3.unity mesh material,game object and tree
+
+Update Sketchup version
+change(replace) dll in Sketchup 2024
