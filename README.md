@@ -31,6 +31,8 @@ support NewVersion 5.1.1~5.4.x
 can self extend to runtime
 
 drag  .udatasmith fileand assets folder to Project/Assets folder
+thanks!
+https://github.com/Calonca/unity-datasmith-import
 
 
 # SketchUPImporter
