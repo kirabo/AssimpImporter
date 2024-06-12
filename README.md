@@ -41,3 +41,4 @@ drag  .udatasmith fileand assets folder to Project/Assets folder
 
 Update Sketchup version
 change(replace) dll in Sketchup 2024
+thanks! https://github.com/moethu/SketchUpNET
