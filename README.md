@@ -34,7 +34,7 @@ drag  .udatasmith fileand assets folder to Project/Assets folder
 
 
 # SketchUPImporter
-
+Support Runtime Import .skp file
 1.invoke sketchup sdk in c# wrapper
 2.parse skp file
 3.unity mesh material,game object and tree
