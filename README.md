@@ -1,7 +1,7 @@
 # AssimpImporter
 AssimpImporter
 Supported file formats
-fbx,3ds,obj,dae,ifc,glb,gltf1.0,gltf2.0,stl,raw,q3d...40+
+Mesh assets must be either .fbx, .dae, .abc, or .obj file types.
 mor format is here
 https://github.com/assimp/assimp/blob/master/doc/Fileformats.md
 
