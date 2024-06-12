@@ -23,3 +23,11 @@ https://bitbucket.org/Starnick/assimpnet/src/master/
 4.**codeding unity texture,unity mesh,unity material, unity gameobject**
 
 5.generate gameobject and tree
+
+# DatasmithImporter
+support OldVersion 4.26~5.0.3
+support NewVersion 5.1.1~5.4.x
+
+can self extend to runtime
+
+drag  .udatasmith fileand assets folder to Project/Assets folder
